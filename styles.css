@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+#div1{
+	background-color:white;
+	alignment:center;
+	}
+.btn{
+	color:white;
+	background-color:red;
+	border-radius:5px;
+}
+
